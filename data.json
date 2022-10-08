@@ -1,0 +1,47 @@
+[
+    {
+        "id": 2,
+        "name": "kifir",
+        "price": 55,
+        "date of creation": "2022-10-08 14:35:10",
+        "date of update": "2022-10-08 14:35:10",
+        "description": "",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "name": "coffe",
+        "price": 15,
+        "date of creation": "2022-10-08 14:53:23",
+        "date of update": "2022-10-08 14:53:23",
+        "description": "",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "name": "banana",
+        "price": 4,
+        "date of creation": "2022-10-08 14:53:51",
+        "date of update": "2022-10-08 14:53:51",
+        "description": "",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "name": "cahar",
+        "price": 105,
+        "date of creation": "2022-10-08 15:08:01",
+        "date of update": "2022-10-08 15:08:01",
+        "description": "",
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "name": "bita",
+        "price": 26,
+        "date of creation": "2022-10-08 15:08:23",
+        "date of update": "2022-10-08 15:08:23",
+        "description": "",
+        "status": "divan"
+    }
+]
